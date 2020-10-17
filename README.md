@@ -1,6 +1,2 @@
-# HelloWorld
-## 二级标题  
-### 三级标题  
-#### 四级标题  
-##### 五级标题  
-###### 六级标题
+# 这是我的第一个Android应用 HelloWorld
+## 采用了约束布局ConstraintLayout，它实现了在屏幕上输出hello world
